@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\.android\build-cache\39a9a5ff47bc19452e3faf347f0ab6c0c3c9053f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes_0db41567bc35d7600132bddf38c07061ab1be91a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_746bdfc5919190a4fdedd933eac85c2df0af497c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\.android\build-cache\2dfc0fe88a69f11b072a3abd3636eff194d24a5b\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_1a1c59630a9890cfb194da118df739d3660ce4bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\.android\build-cache\a2839e9a741185fe54b748cd5d02b68c8d5082bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes_6ffad43abc765d664f68aed0447c0a25476ff9ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\.android\build-cache\0db81d3224c0176dd1b4b8dd1e1b99e8068f227f\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_db0a6ee583f3c83056101a33e8a967eb3ee26323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\.android\build-cache\9a554bb909b4e190a96ed79066ea5d227f5bbe11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes_8979b24e09357f6398608c53ac74b9c8ef3c5d1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\.android\build-cache\e5cc988650f8d5abfb65ee88ff9bb4df1e92bd63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes_c53e7637f6c152ba28b8d82bbc1d3ad462d3d4f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\.android\build-cache\b00151585b801767b1fcd530e01b23e42f6d0405\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes_9c0f8b09c9ebe7e58766cc898d29882fe948f4e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\.android\build-cache\0db81d3224c0176dd1b4b8dd1e1b99e8068f227f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes_d8c6d20fd4bbaa225ab3961ca837828a60479ad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\.android\build-cache\1b81d35c45565e25f922e2ffcfaf89e0eb49ee79\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_56d81886429674265a8d5c99f2603c0edb0db58c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\.android\build-cache\2bd8479f21c14afa077f88d0c0a2756bcf7ead31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes_a4ba574b235325688f9c5361952cd448c041e763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\.android\build-cache\3ae357cbc7aa1b42532e31463106f63b5a718284\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes_e14e5c60e62db61fb0a5ee3b236f949a2c876a29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\.android\build-cache\674c6d717865a0536a451c55afe204c258bdc916\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes_4ceb631db35fe839bfa54be67fe1400c5554ced5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\.android\build-cache\1b81d35c45565e25f922e2ffcfaf89e0eb49ee79\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes_ffd7775ab5e5ceea0fe852c1db0b1aa3d4aed31f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\.android\build-cache\2dfc0fe88a69f11b072a3abd3636eff194d24a5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes_e7726eaa1bc920db49aca4391b48b5780fe7e220.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\.android\build-cache\9a554bb909b4e190a96ed79066ea5d227f5bbe11\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_966a3b16abb5a0e99f41cbb8e0b33f9a2c105948.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAM\.android\build-cache\e5cc988650f8d5abfb65ee88ff9bb4df1e92bd63\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Projects\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_27bf21d1211a3269dd66bc5bae85d93b6275d29e.jar" />
+    </item>
+
+</items>
