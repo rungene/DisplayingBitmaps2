@@ -31,26 +31,61 @@ public class Images {
      * http://www.flickr.com/photos/romainguy
      */
     public final static String[] imageUrls = new String[] {
-/*
-            "https://postimg.org/image/olowgjvv3/",
-    "https://postimg.org/image/ghgsbt9fz/",
-    "https://postimg.org/image/cmde98qa7/",
-    "https://postimg.org/image/synfyz4lr/",
-    "https://postimg.org/image/6b86stp1r/",
-    "https://postimg.org/image/g9t5fayhb/",
-    "https://postimg.org/image/d4d52u58v/",
-    "https://postimg.org/image/ekonkz85r/",
-    "https://postimg.org/image/6ggjg8lqn/",
-    "https://postimg.org/image/4pxier47j/",
-    "https://postimg.org/image/hilmeoftb/",
-    "https://postimg.org/image/6x1r2o9hr/",
-    "https://postimg.org/image/5w1idjsi7/",
-    "https://postimg.org/image/u127v9csv/",
-    "https://postimg.org/image/4jjtbnv2n/",
-    "https://postimg.org/image/kvtv1e9e7/",*/
 
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520694808/IMG-20171207-WA0008.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520694925/IMG-20171207-WA0009.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520694921/IMG-20171207-WA0010.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520696149/IMG-20171207-WA0011.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520694925/IMG-20171207-WA0012.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520697746/IMG-20171207-WA0013.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520695550/IMG-20171207-WA0014.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520697687/IMG-20171208-WA0002.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520697709/IMG-20171210-WA0002.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520696011/IMG-20171213-WA0000.jpg",
 
-            "https://lh6.googleusercontent.com/-55osAWw3x0Q/URquUtcFr5I/AAAAAAAAAbs/rWlj1RUKrYI/s1024/A%252520Photographer.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520696057/IMG-20171213-WA0001.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520695134/IMG-20171213-WA0002.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520696102/IMG-20171213-WA0003.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520694968/IMG-20171216-WA0000.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520695022/IMG-20171216-WA0001.jpg",
+
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520694976/IMG-20171216-WA0002.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520696159/IMG-20171216-WA0003.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520695008/IMG-20171216-WA0004.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520695076/IMG-20171216-WA0006.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520695437/IMG-20171216-WA0005.jpg",
+
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520696028/IMG-20171216-WA0007.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520696089/IMG-20171216-WA0008.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520696108/IMG-20171216-WA0009.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520695750/IMG-20171216-WA0010.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520697663/IMG-20171216-WA0011.jpg",
+
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520697686/IMG-20171216-WA0012.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520695592/IMG-20171216-WA0013.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700460/IMG-20171216-WA0014.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520701659/IMG-20171216-WA0015.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700456/IMG-20180208-WA0025.jpg",
+
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700408/IMG-20180208-WA0026.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700448/IMG-20180208-WA0027.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520701673/IMG-20180208-WA0028.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700479/IMG-20180209-WA0001.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520701631/IMG-20180209-WA0002.jpg",
+
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700580/IMG-20180209-WA0003.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700583/IMG-20180209-WA0004.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520701577/IMG-20180209-WA0044.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700740/IMG-20180209-WA0045.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700791/IMG-20180209-WA0047.jpg",
+
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700767/IMG-20180209-WA0049.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520701691/IMG-20180209-WA0050.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700737/IMG-20180209-WA0051.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700781/Muthangari.jpg",
+                "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700787/Qaribu.jpg",
+
+/*            "https://lh6.googleusercontent.com/-55osAWw3x0Q/URquUtcFr5I/AAAAAAAAAbs/rWlj1RUKrYI/s1024/A%252520Photographer.jpg",
             "https://lh4.googleusercontent.com/--dq8niRp7W4/URquVgmXvgI/AAAAAAAAAbs/-gnuLQfNnBA/s1024/A%252520Song%252520of%252520Ice%252520and%252520Fire.jpg",
             "https://lh5.googleusercontent.com/-7qZeDtRKFKc/URquWZT1gOI/AAAAAAAAAbs/hqWgteyNXsg/s1024/Another%252520Rockaway%252520Sunset.jpg",
             "https://lh3.googleusercontent.com/--L0Km39l5J8/URquXHGcdNI/AAAAAAAAAbs/3ZrSJNrSomQ/s1024/Antelope%252520Butte.jpg",
@@ -148,7 +183,7 @@ public class Images {
             "https://lh5.googleusercontent.com/-biyiyWcJ9MU/URqvKculiAI/AAAAAAAAAbs/jyPsCplJOpE/s1024/Windmill.jpg",
             "https://lh4.googleusercontent.com/-PDT167_xRdA/URqvK36mLcI/AAAAAAAAAbs/oi2ik9QseMI/s1024/Windmills.jpg",
             "https://lh5.googleusercontent.com/-kI_QdYx7VlU/URqvLXCB6gI/AAAAAAAAAbs/N31vlZ6u89o/s1024/Yet%252520Another%252520Rockaway%252520Sunset.jpg",
-            "https://lh4.googleusercontent.com/-e9NHZ5k5MSs/URqvMIBZjtI/AAAAAAAAAbs/1fV810rDNfQ/s1024/Yosemite%252520Tree.jpg",
+            "https://lh4.googleusercontent.com/-e9NHZ5k5MSs/URqvMIBZjtI/AAAAAAAAAbs/1fV810rDNfQ/s1024/Yosemite%252520Tree.jpg",*/
 
     };
 
@@ -162,26 +197,62 @@ public class Images {
      * http://www.flickr.com/photos/romainguy
      */
     public final static String[] imageThumbUrls = new String[] {
-/*            "https://s27.postimg.org/olowgjvv3/Amboseli_Road.jpg' border='0' alt=\"Amboseli_Road",
-            "https://s27.postimg.org/ghgsbt9fz/Argwings_Kodheck_Best_Western.jpg' border='0' alt=\"Argwings_Kodheck_BestWestern",
-            "https://s27.postimg.org/cmde98qa7/Argwings_Kodheck_Road_2016_11_24_18_14_05_UTC.jpg' border='0' alt=\"Argwings_Kodheck_Road (2016_11_24 18_14_05 UTC)",
-            "https://s27.postimg.org/synfyz4lr/Chaka_Road_2016_11_24_18_14_05_UTC.jpg' border='0' alt=\"Chaka_Road (2016_11_24 18_14_05 UTC)",
-            "https://s27.postimg.org/6b86stp1r/Galana_Road_Argwings_Kodheck_2016_11_24_18_14_0.jpg' border='0' alt=\"Galana_Road_Argwings_Kodheck (2016_11_24 18_14_0",
-            "https://s27.postimg.org/olowgjvv3/Amboseli_Road.jpg' border='0' alt=\"Amboseli_Road",
-            "https://s27.postimg.org/olowgjvv3/Amboseli_Road.jpg' border='0' alt=\"Amboseli_Road",
-            "https://s27.postimg.org/olowgjvv3/Amboseli_Road.jpg' border='0' alt=\"Amboseli_Road",
-            "https://s27.postimg.org/olowgjvv3/Amboseli_Road.jpg' border='0' alt=\"Amboseli_Road",
-            "https://s27.postimg.org/olowgjvv3/Amboseli_Road.jpg' border='0' alt=\"Amboseli_Road",
-            "https://s27.postimg.org/olowgjvv3/Amboseli_Road.jpg' border='0' alt=\"Amboseli_Road",
-            "https://s27.postimg.org/olowgjvv3/Amboseli_Road.jpg' border='0' alt=\"Amboseli_Road",
-            "https://s27.postimg.org/olowgjvv3/Amboseli_Road.jpg' border='0' alt=\"Amboseli_Road",
-            "https://s27.postimg.org/olowgjvv3/Amboseli_Road.jpg' border='0' alt=\"Amboseli_Road",
-            "https://s27.postimg.org/olowgjvv3/Amboseli_Road.jpg' border='0' alt=\"Amboseli_Road",
-            "https://s27.postimg.org/olowgjvv3/Amboseli_Road.jpg' border='0' alt=\"Amboseli_Road",*/
+
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520694808/IMG-20171207-WA0008.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520694925/IMG-20171207-WA0009.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520694921/IMG-20171207-WA0010.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520696149/IMG-20171207-WA0011.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520694925/IMG-20171207-WA0012.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520697746/IMG-20171207-WA0013.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520695550/IMG-20171207-WA0014.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520697687/IMG-20171208-WA0002.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520697709/IMG-20171210-WA0002.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520696011/IMG-20171213-WA0000.jpg",
+
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520696057/IMG-20171213-WA0001.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520695134/IMG-20171213-WA0002.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520696102/IMG-20171213-WA0003.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520694968/IMG-20171216-WA0000.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520695022/IMG-20171216-WA0001.jpg",
+
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520694976/IMG-20171216-WA0002.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520696159/IMG-20171216-WA0003.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520695008/IMG-20171216-WA0004.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520695076/IMG-20171216-WA0006.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520695437/IMG-20171216-WA0005.jpg",
+
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520696028/IMG-20171216-WA0007.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520696089/IMG-20171216-WA0008.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520696108/IMG-20171216-WA0009.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520695750/IMG-20171216-WA0010.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520697663/IMG-20171216-WA0011.jpg",
+
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520697686/IMG-20171216-WA0012.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520695592/IMG-20171216-WA0013.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700460/IMG-20171216-WA0014.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520701659/IMG-20171216-WA0015.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700456/IMG-20180208-WA0025.jpg",
+
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700408/IMG-20180208-WA0026.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700448/IMG-20180208-WA0027.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520701673/IMG-20180208-WA0028.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700479/IMG-20180209-WA0001.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520701631/IMG-20180209-WA0002.jpg",
+
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700580/IMG-20180209-WA0003.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700583/IMG-20180209-WA0004.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520701577/IMG-20180209-WA0044.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700740/IMG-20180209-WA0045.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700791/IMG-20180209-WA0047.jpg",
+
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700767/IMG-20180209-WA0049.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520701691/IMG-20180209-WA0050.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700737/IMG-20180209-WA0051.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700781/Muthangari.jpg",
+            "https://res.cloudinary.com/dsjag9a1o/image/upload/v1520700787/Qaribu.jpg",
 
 
-
-            "https://lh6.googleusercontent.com/-55osAWw3x0Q/URquUtcFr5I/AAAAAAAAAbs/rWlj1RUKrYI/s240-c/A%252520Photographer.jpg",
+/*            "https://lh6.googleusercontent.com/-55osAWw3x0Q/URquUtcFr5I/AAAAAAAAAbs/rWlj1RUKrYI/s240-c/A%252520Photographer.jpg",
             "https://lh4.googleusercontent.com/--dq8niRp7W4/URquVgmXvgI/AAAAAAAAAbs/-gnuLQfNnBA/s240-c/A%252520Song%252520of%252520Ice%252520and%252520Fire.jpg",
             "https://lh5.googleusercontent.com/-7qZeDtRKFKc/URquWZT1gOI/AAAAAAAAAbs/hqWgteyNXsg/s240-c/Another%252520Rockaway%252520Sunset.jpg",
             "https://lh3.googleusercontent.com/--L0Km39l5J8/URquXHGcdNI/AAAAAAAAAbs/3ZrSJNrSomQ/s240-c/Antelope%252520Butte.jpg",
@@ -279,7 +350,7 @@ public class Images {
             "https://lh5.googleusercontent.com/-biyiyWcJ9MU/URqvKculiAI/AAAAAAAAAbs/jyPsCplJOpE/s240-c/Windmill.jpg",
             "https://lh4.googleusercontent.com/-PDT167_xRdA/URqvK36mLcI/AAAAAAAAAbs/oi2ik9QseMI/s240-c/Windmills.jpg",
             "https://lh5.googleusercontent.com/-kI_QdYx7VlU/URqvLXCB6gI/AAAAAAAAAbs/N31vlZ6u89o/s240-c/Yet%252520Another%252520Rockaway%252520Sunset.jpg",
-            "https://lh4.googleusercontent.com/-e9NHZ5k5MSs/URqvMIBZjtI/AAAAAAAAAbs/1fV810rDNfQ/s240-c/Yosemite%252520Tree.jpg",
+            "https://lh4.googleusercontent.com/-e9NHZ5k5MSs/URqvMIBZjtI/AAAAAAAAAbs/1fV810rDNfQ/s240-c/Yosemite%252520Tree.jpg",*/
 
     };
 }
