@@ -24,6 +24,7 @@ package com.example.android.common.logger;
  * in LogNode.</p>
  */
 public class Log {
+
     // Grabbing the native values from Android's native logging facilities,
     // to make for easy migration and interop.
     public static final int NONE = -1;

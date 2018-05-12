@@ -194,6 +194,7 @@ public class ImageFetcher extends ImageResizer {
         FileDescriptor fileDescriptor = null;
         FileInputStream fileInputStream = null;
         DiskLruCache.Snapshot snapshot;
+        
         synchronized (mHttpDiskCacheLock) {
             // Wait for disk cache to initialize
             while (mHttpDiskCacheStarting) {
